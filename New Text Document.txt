@@ -1,0 +1,62 @@
+  <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+              <div class="pic"><img src="assets/img/ico funding/Pre-ICO Marketing & Dashboard Setup.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <span><h4>Marketing & Dashboard Setup</h4></span>
+              
+                <p>Building community help through different channels like Telegram, Reddit, Facebook, Steemit and Twitter. Set up the shareholder dashboard. </p>
+               
+              </div>
+            </div>
+          </div>
+
+
+  <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/ico funding/Initial Coin Offering Open To All.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <span><h4>Initial Coin Offering Open To All</h4></span>
+              
+                <p>Reveal the technology time periods as per the execution plan so that they attract investments that you simply decide, and people are permitted
+                   to purchase your coin/token as you decide the cost. <br> <br> </p>
+               
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/ico funding/Wallet Setup & Coin Drop.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <span><h4>Wallet Setup & Coin Drop</h4></span>
+              
+                <p>Reveal the apportioned, obtained coins/tokens to your investors white-labelled web and mobile wallets.</p>
+               
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+ <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+              <div class="col-4">
+              <div class="pic"><img src="assets/img/ico funding/Wallet Setup & Coin Drop.png" class="img-fluid" alt=""></div>
+            </div>
+            <div class="col-8">
+              <div class="member-info">
+                <span><h4>Wallet Setup & Coin Drop</h4></span>
+              
+                <p>Reveal the apportioned, obtained coins/tokens to your investors white-labelled web and mobile wallets.</p>
+              </div>
+
+            </div>
+             
+            </div>
+          </div>
